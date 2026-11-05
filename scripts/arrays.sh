@@ -1,8 +1,8 @@
 #!/bin/bash
 
-cars=('BMW' "Audi" "Tesla")
+servers=('test-server' "db-server" "prod-server")
 
-for car in ${cars[@]}
+for car in ${servers[@]}
 do
     echo $car
 done
