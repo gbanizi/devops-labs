@@ -1,0 +1,2 @@
+Linux is important for devops
+so is shell scripting for automation

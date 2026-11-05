@@ -1,0 +1,31 @@
+zone      | North-East
+county    | Tyne and Wear
+country   | England
+club      | Sunderland AFC
+continent | Europe
+council   | Sunderland City Council
+currrency | pounds and shilling
+
+  Show information about the file system on which each FILE resides,
+       or all file systems by default.
+
+       Mandatory arguments to long options are mandatory for short
+       options too.
+
+       -a, --all
+              include pseudo, duplicate, inaccessible file systems
+
+       -B, --block-size=SIZE
+              scale sizes by SIZE before printing them; see SIZE format
+              below; E.g., '-BM' prints sizes in units of 1,048,576 bytes
+
+       -h, --human-readable
+              print sizes in powers of 1024 (e.g., 1023M)
+
+       -H, --si
+              print sizes in powers of 1000 (e.g., 1.1G)
+
+       -i, --inodes
+              list inode information instead of block usage
+
+       -k     like --block-size=1K

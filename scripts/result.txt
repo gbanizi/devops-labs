@@ -1,0 +1,41 @@
+enter num
+Number is greater than 5
+enter num
+Number is less than  or equal to 5
+enter num
+Number is greater than 5
+enter num
+Number is equal to 5
+enter num
+Number is equal to 5
+enter num
+Number is less than  or equal to 5
+enter num
+Number is less than  or equal to 5
+enter num
+enter num
+Number is greater than 5
+enter num
+Number is equal to 5
+enter num
+Number is equal to 5
+1
+2
+3
+4
+5
+6
+7
+8
+1
+2
+3
+4
+5
+6
+7
+8
+enter tehe file name to be created
+file is created by name devops-script
+enter tehe file name to be created
+file is created by name secops-team

@@ -1,0 +1,5 @@
+David | general manager
+Maria | content manager
+Henry | Product manger
+Dave  | dev manager
+zik   | support manager

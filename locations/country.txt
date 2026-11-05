@@ -1,0 +1,4 @@
+locations/london.loca:Location   | Southeast England, United Kingdom
+locations/london.loca:Country    | England
+locations/newcastle.loca:in england
+locations/sunderland.loca:country   | England

@@ -1,0 +1,9 @@
+./memory-info.txt
+./locations/find.txt
+./locations/country.txt
+./locations/ls.txt
+./zombie.txt
+./system_report.txt
+./org-check.txt
+./sys-info.txt
+./ls.txt

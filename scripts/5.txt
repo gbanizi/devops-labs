@@ -1,0 +1,12 @@
+Number is greater than 5
+Number is less than  or equal to 5
+Number is greater than 5
+Number is equal to 5
+Number is equal to 5
+Number is less than  or equal to 5
+Number is less than  or equal to 5
+Number is greater than 5
+Number is equal to 5
+Number is equal to 5
+5
+5

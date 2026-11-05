@@ -1,0 +1,46 @@
+London     | Core Details
+Location   | Southeast England, United Kingdom
+Population | ~9.12 million (Greater London)
+Currency   | Pound Sterling (GBP / £)
+County     | Greater London
+Country    | England
+Club       | Chelsea, Arsenal, Crystal, Tottenham, Westham
+Transport  | tube, taxi, horse, plane, chopper, bus, boats, teleport
+
+zone      | North-East
+county    | Tyne and Wear
+country   | England
+club      | Sunderland AFC
+continent | Europe
+council   | Sunderland City Council
+currrency | pounds and shilling
+
+Southend-on-Sea | Core Details
+Location        | Essex (Southeast Coast), United Kingdom
+Population      | ~180,000 (City proper)
+Currency        | Pound Sterling (GBP / £)
+County          | Essex (Ceremonial)
+Country         | England
+Clubs           | Southend United FC
+1 Bed Rent      | ~£850 - £1,100 per month
+
+Birmingham    | Core Details
+Location      | West Midlands region, United Kingdom
+Population    | ~1.15 million (City proper)
+Currency      | Pound Sterling (GBP / £)
+County        | West Midlands
+Country       | England
+Clubs         | Aston Villa FC, Birmingham City FC
+1 Bed Rent    | ~£1,140 - £1,300 per month
+
+Eastbourne   | Core Details
+Location     | East Sussex (South Coast), United Kingdom
+Population   | ~102,000 (Town proper)
+Currency     | Pound Sterling (GBP / £)
+County       | East Sussex
+Country      | England
+Clubs        | Eastbourne Borough FC
+1 Bed Rent   | ~£965 per mont
+
+i prefer nano
+
