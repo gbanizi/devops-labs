@@ -43,3 +43,15 @@ starting server
 restarting server
  Enter Option
 ivalid option
+ Enter the enviroment for deployment
+Deploying to Dev Sever
+ Enter the enviroment for deployment
+Deploying to test server
+ Enter the enviroment for deployment
+Deploying to test server
+ Enter the enviroment for deployment
+alien enviroment
+ Enter the enviroment for deployment
+alien enviroment
+ Enter the enviroment for deployment
+Deploying to prod server

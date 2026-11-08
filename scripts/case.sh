@@ -1,20 +1,20 @@
 #!/bin/bash
 
-echo " Enter Option"
+echo " Enter the enviroment for deployment"
 
-read option
+read env
 
-case $option in 
-start)
-    echo "starting server"
+case $env in 
+dev)
+    echo "Deploying to Dev Sever"
     ;;
-stop)
-    echo "stopping server"
+test)
+    echo "Deploying to test server"
     ;;
-restart)
-    echo "restarting server"
+prod)
+    echo "Deploying to prod server"
     ;;
 *)
-    echo "invalid option"
+    echo "alien enviroment"
     ;;
 esac 
