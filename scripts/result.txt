@@ -31,3 +31,15 @@ App deployed on test-server
 App deployed on test-server
 App deployed on test-server
 App deployed on test-server
+ Enter Option
+starting server
+ Enter Option
+stopping server
+ Enter Option
+starting server
+ Enter Option
+starting server
+ Enter Option
+restarting server
+ Enter Option
+ivalid option

@@ -764,3 +764,87 @@ sudo shutdown 2
 shutdown -c
 sudo shutdown -c
 sudo shutdown now
+clear
+ls
+git config --global user.name gbanizi
+git config --global user.email crunchemmy@gmail.com
+git config --global --list
+ssh-keygen -t rsa -b 4096 -C crunchemmy@gmail.com
+eval "$(ssh-agent -s)"
+ssh-add ~/.ssh/id_rsa
+cat ~/.ssh/id_rsa.pub
+ssh -T git@github.com
+ls l-l
+ls -l
+[200~echo "*.log" >> .gitignore
+echo "*.log" >> .gitignore
+echo ".env" >> .gitignore
+ls -l
+git init
+git add .
+git commit -m "feat: initial commit of DevOps scripts and lab sessions"
+git branch -M main
+git remote add origin git@github.com:gbanizi/devops-labs.git
+git push -u origin main
+git remote -v
+git remote set-url origin git@github.com:gbanizi/devops-labs.git
+git push -u origin main
+git reset --soft HEAD~1
+rm -rf .git
+git init
+git status
+echo ".ssh/" >> .gitignore
+git add .
+git commit -m "feat: initial commit of DevOps scripts and lab sessions"
+git remote add origin git@github.com:gbanizi/devops-labs.git
+git branch -M main
+git push -u origin main
+ls -l
+clear
+car ("BMW" "Audi" "Tesla")
+car=("BMW" "Audi" "Tesla")
+echo${#car[@]}
+echo ${#car[@]}
+echo ${#car[2]}
+echo ${car[2]}
+echo ${car[1]}
+echo ${car[3]}
+echo ${car[0]}
+echo ${car[@]}
+cd scripts/
+ls -l
+nano arrays.sh
+chmod u+x arrays.sh 
+./arrays.sh 
+git status
+git add .
+git commit
+git push
+ls l
+nano arrays.sh
+git push
+git update
+git add .
+git commit "updated"
+git commit "arrays.sh" 
+git push
+./arrays.sh 
+nano arrays.sh 
+git commit arrays.sh "updated"
+git commit arrays.sh 
+git push
+./arrays.sh 
+nano arrays.sh 
+git push
+git commit arrays.sh 
+git push
+./arrays.sh 
+./arrays.sh >> result.txt 
+cat result.txt 
+nano result.txt 
+cat result.txt 
+git status
+git push result.txt
+git commit result.txt 
+git push
+sudo shutdown now
