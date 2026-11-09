@@ -848,3 +848,104 @@ git push result.txt
 git commit result.txt 
 git push
 sudo shutdown now
+clear
+ls -l
+cd scripts/
+nano case.sh
+chmod u+x case.sh 
+./case.sh 
+cat case.sh
+nano case.sh
+./case.sh 
+./case.sh >> result.txt 
+car result.txt 
+cat result.txt 
+nano case.sh 
+git status
+git commit -a
+git push
+git status
+git add .
+git commit -a
+git push
+nano case.sh 
+./case.sh >> result.txt 
+./case.sh >> result.txt
+cat result.txt 
+git add .
+git commit -a
+git push
+ls -l
+cat devops.txt 
+nano fileops.sh
+ls -l
+nano backup.sh
+chmod u+x backup.sh 
+./backup.sh 
+nano backup.sh
+./backup.sh 
+nano backup.sh
+./backup.sh 
+ls -l
+cat backups
+cd backups/
+ls-l
+ls -l
+uptime
+date
+now
+no3
+systemctl
+systemctl | grep "system"
+ssh status
+ls
+sudo shutdown no
+sudo shutdown now
+ls
+clear
+ls
+sudo shutdown now
+ls -l
+ssh -status
+ls -l
+clear
+echo "YOUR_COPIED_PUBLIC_KEY_STRING" >> ~/.ssh/authorized_keysecho "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQCYVosqt/MK3BD9lK6CstzJx4moD5cPK69kMM88njV80YFoqV75dCOc5oRDtoU22Y/1csdBzoJOrWxYbbLqcYNd0VHMxrWyuJu4umnucpAuK7oT42Ltp2fiRRBixAp49i7V9hSIg0MARuu7P3Q7IXFdJ7xP50Om+XSomYZ3OQkFAQ7sJE1h8GpakTpCMs7EBGV9SRKRAyc4Rix4eRzFRrIrbYRpg6gpF+U8vZOXWm6l530gAuDb2LyaNVXzEMlQdRVGrMpVKD6PPpJiBVabA8sJGZZKnOmgIvdBvFF424IDQBl2wnQlyPK9cRUn+2myeKtPRR5wqUmIpee3RLkaJrcfssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQCYVosqt/MK3BD9lK6CstzJx4moD5cPK69kMM88njV80YFoqV75dCOc5oRDtoU22Y/1csdBzoJOrWxYbbLqcYNd0VHMxrWyuJu4umnucpAuK7oT42Ltp2fiRRBixAp49i7V9hSIg0MARuu7P3Q7IXFdJ7xP50Om+XSomYZ3OQkFAQ7sJE1h8GpakTpCMs7EBGV9SRKRAyc4Rix4eRzFRrIrbYRpg6gpF+U8vZOXWm6l530gAuDb2LyaNVXzEMlQdRVGrMpVKD6PPpJiBVabA8sJGZZKnOmgIvdBvFF424IDQBl2wnQlyPK9cRUn+2myeKtPRR5wqUmIpee3RLkaJrcf" >> ~/.ssh/authorized_keys
+echo "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQCYVosqt/MK3BD9lK6CstzJx4moD5cPK69kMM88njV80YFoqV75dCOc5oRDtoU22Y/1csdBzoJOrWxYbbLqcYNd0VHMxrWyuJu4umnucpAuK7oT42Ltp2fiRRBixAp49i7V9hSIg0MARuu7P3Q7IXFdJ7xP50Om+XSomYZ3OQkFAQ7sJE1h8GpakTpCMs7EBGV9SRKRAyc4Rix4eRzFRrIrbYRpg6gpF+U8vZOXWm6l530gAuDb2LyaNVXzEMlQdRVGrMpVKD6PPpJiBVabA8sJGZZKnOmgIvdBvFF424IDQBl2wnQlyPK9cRUn+2myeKtPRR5wqUmIpee3RLkaJrcf" >> ~/.ssh/authorized_keys
+echo "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAACAQYvosqt/MK3BD9lK6CstzJx4mod5CPK69KMM88njV80YFoqv75dcO5oRDtOU22Y/1csbDzOJrwxYbLqCYNd0VHMxRWYuJ4umnucPaUK7oT42Ltp2fiRRBiXAp49i7V9hSIG0MARuU7P3Q7IXFdJ7xP500m+XSomYZ3OQkfaq7sJE1h8GPakTPCms7EBGV9SRKRAyc4Rix4eRzFrRirByRpG6gpF+U8vZoXWm61530gAuDb2LyaNVXzEM1qdRVGrMpVkD6PPJiVabA8sJGZzKOmgIvdBvF424IDQB12wnQl9K9CRUn+2myekPRR5wqUmIpee3RLkaJrcf" >> ~/.ssh/authorized_keys
+chmod 700 ~/.ssh
+chmod 600 ~/.ssh/authorized_keys
+chown -R ubuntu:ubuntu ~/.ssh
+sudo tail -n 50 /var/log/auth.log
+echo "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQCYVosqt/MK3BD9lK6CstzJx4moD5cPK69kMM88njV80YFoqV75dCOc5oRDtoU22Y/1csdBzoJOrWxYbbLqcYNd0VHMxrWyuJu4umnucpAuK7oT42Ltp2fiRRBixAp49i7V9hSIg0MARuu7P3Q7IXFdJ7xP50Om+XSomYZ3OQkFAQ7sJE1h8GpakTpCMs7EBGV9SRKRAyc4Rix4eRzFRrIrbYRpg6gpF+U8vZOXWm6l530gAuDb2LyaNVXzEMlQdRVGrMpVKD6PPpJiBVabA8sJGZZKnOmgIvdBvFF424IDQBl2wnQlyPK9cRUn+2myeKtPRR5wqUmIpee3RLkaJrcf" >> ~/.ssh/authorized_keys
+chmod 700 ~
+chmod 700 ~/.ssh
+chmod 600 ~/.ssh/authorized_keys
+chown -R ubuntu:ubuntu ~/.ssh
+cat ~/.ssh/authorized_keys
+echo "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAACAQYvosqt/MK3BD9lK6CstzJx4mod5CPK69KMM88njV80YFoqv75dcO5oRDtOU22Y/1csbDzOJrwxYbLqCYNd0VHMxRWYuJ4umnucPaUK7oT42Ltp2fiRRBiXAp49i7V9hSIG0MARuU7P3Q7IXFdJ7xP500m+XSomYZ3OQkfaq7sJE1h8GPakTPCms7EBGV9SRKRAyc4Rix4eRzFrRirByRpG6gpF+U8vZoXWm61530gAuDb2LyaNVXzEM1qdRVGrMpVkD6PPJiVabA8sJGZzKOmgIvdBvF424IDQB12wnQl9K9CRUn+2myekPRR5wqUmIpee3RLkaJrcf" > ~/.ssh/authorized_keys
+cat ~/.ssh/authorized_keys
+chmod 700 ~/.ssh
+chmod 600 ~/.ssh/authorized_keys
+chown -R ubuntu:ubuntu ~/.ssh
+ssh-keygen -t rsa -b 4096 -f ~/.ssh/id_rsa_fresh -N ""
+ls -l ~/.ssh/id_rsa_fresh*
+cat ~/.ssh/id_rsa_fresh.pub >> ~/.ssh/authorized_keys
+chmod 600 ~/.ssh/authorized_keys
+cat ~/.ssh/id_rsa_fresh
+sudo shutdown now
+exit
+echo "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAACAQYvosqt/MK3BD9lK6CstzJx4mod5CPK69KMM88njV80YFoqv75dcO5oRDtOU22Y/1csbDzOJrwxYbLqCYNd0VHMxRWYuJ4umnucPaUK7oT42Ltp2fiRRBiXAp49i7V9hSIG0MARuU7P3Q7IXFdJ7xP500m+XSomYZ3OQkfaq7sJE1h8GPakTPCms7EBGV9SRKRAyc4Rix4eRzFrRirByRpG6gpF+U8vZoXWm61530gAuDb2LyaNVXzEM1qdRVGrMpVkD6PPJiVabA8sJGZzKOmgIvdBvF424IDQB12wnQl9K9CRUn+2myekPRR5wqUmIpee3RLkaJrcf" >> ~/.ssh/authorized_keys
+chmod 700 ~/.ssh && chmod 600 ~/.ssh/authorized_keys
+sudo restart now
+sudo reboot now
+ls
+exit
+ls-l
+ls -l
+clear
+cd scripts/
+git status
+git add .
+git commit .
+git push
+nano cron-demo.sh
